@@ -20,7 +20,7 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.net.MalformedURLException;
 
-import org.holoeverywhere.app.Activity;
+import android.app.Activity;
 import org.json.JSONException;
 import org.json.JSONObject;
 
